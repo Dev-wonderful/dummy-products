@@ -1,0 +1,8 @@
+*.env
+import.sh
+seeder.js
+yarn-error.log
+
+/node_modules
+/build
+/dist
